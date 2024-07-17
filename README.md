@@ -108,22 +108,6 @@ Sigue estos pasos para ejecutar el proyecto en tu equipo, recuerda tener instala
 7. También puedes probar el proyecto con SpringDoc, usando la herramienta Swagger
 
 
-## :tv: Ejemplos
-
-Uso de todas las funcionalidades.
-
-### CRUD de tópicos:
-
-https://github.com/crismkle/challenge-foro-hub/assets/122938039/e7b69531-2bc2-44a5-be70-0f816f714bc4
-
-### CRUD de respuestas:
-
-https://github.com/crismkle/challenge-foro-hub/assets/122938039/d394baa0-2cfd-4718-a440-f58db51ff093
-
-### CRUD de usuarios:
-
-https://github.com/crismkle/challenge-foro-hub/assets/122938039/743ad33d-43c4-4919-9295-4c14b240be18
-
 
 ## ✒️ Autor
-* **Cristian Muñoz** - [crismkle](https://github.com/crismkle)
+    kike martinez - [kike](https://github.com/kikinMartinezCord)
